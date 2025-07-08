@@ -143,7 +143,7 @@
                             :picture               (.getPicture access-token)
                             :website               (.getWebsite access-token)
                             :email                 (.getEmail access-token)
-                            :email-verified        (.getEmailFoo access-token)
+                            :email-verified        (.getEmailVerified access-token)
                             :gender                (.getGender access-token)
                             :birthdate             (.getBirthdate access-token)
                             :zoneinfo              (.getZoneinfo access-token)
